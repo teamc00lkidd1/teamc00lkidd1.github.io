@@ -6,11 +6,11 @@
         {
             "name": "Geometry Dash",
             "bundleIdentifier": "com.robtop.geometrydash",
-            "developerName": "RobTop Games",
-            "subtitle": "Geometry Dash, a fun platformer jump game by RobTop Games",
+            "developerName": "RobTop Games AB",
+            "subtitle": "Casual",
             "version": "2.11",
-            "versionDate": "2017-11-16T03:00:00-05:00",
-            "versionDescription": "Check the App Store page for details on this version.",
+            "versionDate": "2017-11-16",
+            "versionDescription": "Update 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub",
             "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
             "size": 81682740,
             "minOSVersion": "8.0",
@@ -18,13 +18,13 @@
                 {
                     "version": "2.11",
                     "date": "2017-11-16",
-                    "localizedDescription": "Check the App Store page for details on this version.",
+                    "localizedDescription": "Update 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub",
                     "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
                     "size": 81682740,
                     "minOSVersion": "8.0"
                 }
             ],
-            "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\n\n\n\"Frustratingly wonderful\" - Kotaku\n\n\n\"Geometry Dash provides all of the challenge expected from an “impossible” game while also making it more accessible to newcomers.\"\n\n- 148Apps\n\n\n\"Geometry Dash is a fast-paced platformer that will leave you screaming in frustration, but you’ll keep coming back for more.\"\n\n- AppAdvice\n\n\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.\n\n\nSimple one touch game play with lots of levels that will keep you entertained for hours!\n\n\nGame Features\n\n• Rhythm-based Action Platforming!\n\n• Lots of levels with unique soundtracks!\n\n• Build and share your own levels using the level editor!\n\n• Unlock new icons and colors to customize your character!\n\n• Fly rockets, flip gravity and much more!\n\n• Use practice mode to sharpen your skills!\n\n• Game Center achievements with rewards!\n\n• Challenge yourself with the near impossible!\n\n\nContact: info@robtopgames.com",
+            "localizedDescription": "Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.\n\nSimple one touch game play with lots of levels that will keep you entertained for hours!",
             "iconURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/icon.png",
             "tintColor": "055972",
             "screenshotURLs": [
@@ -37,11 +37,18 @@
     ],
     "news": [
         {
+            "title": "added Geometry Dash",
+            "identifier": "c00lkidd-added-geometry-dash",
+            "caption": "added Geometry Dash to the repo, check it out!",
+            "date": "2022-03-01",
+            "appID": "com.robtop.geometrydash",
+            "imageURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen0.jpg"
+        },
+        {
             "title": "welcome to team c00lkidd's epic repo!!!!!!!",
             "identifier": "welcome-to-c00lkidd-repo",
-            "caption": "there's only one app and it's geometry dash :sob:",
-            "date": "2022-03-01",
-            "appID": "com.robtop.geometrydash"
+            "caption": "this is an epic repo i made in a few hours because i was trying to figure out why it didnt allow me to add it 😭\nanyway, i hope this is kinda useful lol",
+            "date": "2022-03-01"
         }
     ]
 }
