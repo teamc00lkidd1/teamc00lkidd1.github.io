@@ -7,7 +7,8 @@
             "name": "Geometry Dash",
             "bundleIdentifier": "com.robtop.geometrydash",
             "developerName": "RobTop Games",
-            "subtitle": "The latest version of RobTop's Geometry Dash for free :)",
+            "subtitle": "Geometry Dash, a fun platformer jump game by RobTop Games",
+            "version": "2.11",
             "versions": [
                 {
                     "version": "2.11",
