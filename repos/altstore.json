@@ -12,6 +12,8 @@
             "versionDate": "2017-11-16T03:00:00-05:00",
             "versionDescription": "Check the App Store page for details on this version.",
             "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
+            "size": 81682740,
+            "minOSVersion": "8.0",
             "versions": [
                 {
                     "version": "2.11",
