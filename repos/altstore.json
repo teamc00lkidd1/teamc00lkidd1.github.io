@@ -1,0 +1,42 @@
+{
+    "name": "c00lkidd's epic repo",
+    "identifier": "com.c00lkidd.repo",
+    "sourceURL": "https://c00lkidd.com/repos/altstore.json",
+    "apps": [
+        {
+            "name": "Geometry Dash",
+            "bundleIdentifier": "com.robtop.geometrydash",
+            "developerName": "RobTop Games",
+            "subtitle": "The latest version of RobTop's Geometry Dash for free :)",
+            "versions": [
+                {
+                    "version": "2.11",
+                    "date": "2017-11-16",
+                    "localizedDescription": "Check the App Store page for details on this version.",
+                    "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
+                    "size": 81682740,
+                    "minOSVersion": "8.0"
+                }
+            ],
+            "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\n\n\n\"Frustratingly wonderful\" - Kotaku\n\n\n\"Geometry Dash provides all of the challenge expected from an “impossible” game while also making it more accessible to newcomers.\"\n\n- 148Apps\n\n\n\"Geometry Dash is a fast-paced platformer that will leave you screaming in frustration, but you’ll keep coming back for more.\"\n\n- AppAdvice\n\n\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.\n\n\nSimple one touch game play with lots of levels that will keep you entertained for hours!\n\n\nGame Features\n\n• Rhythm-based Action Platforming!\n\n• Lots of levels with unique soundtracks!\n\n• Build and share your own levels using the level editor!\n\n• Unlock new icons and colors to customize your character!\n\n• Fly rockets, flip gravity and much more!\n\n• Use practice mode to sharpen your skills!\n\n• Game Center achievements with rewards!\n\n• Challenge yourself with the near impossible!\n\n\nContact: info@robtopgames.com",
+            "iconURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/icon.png",
+            "tintColor": "055972",
+            "screenshotURLs": [
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen0.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen1.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen2.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen3.jpg"
+            ],
+            "beta": false
+        }
+    ],
+    "news": [
+        {
+            "title": "welcome to team c00lkidd's epic repo!!!!!!!",
+            "identifier": "welcome-to-c00lkidd-repo",
+            "caption": "there's only one app and it's geometry dash :sob:",
+            "date": "2022-03-01",
+            "appID": "com.robtop.geometrydash"
+        }
+    ]
+}
