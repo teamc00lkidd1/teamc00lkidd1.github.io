@@ -11,7 +11,7 @@
             "version": "2.11",
             "versionDate": "2017-11-16",
             "versionDescription": "Update 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub",
-            "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/2.11.ipa",
+            "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
             "size": 81682740,
             "minOSVersion": "8.0",
             "versions": [
@@ -19,19 +19,19 @@
                     "version": "2.11",
                     "date": "2017-11-16",
                     "localizedDescription": "Update 2.1.1 is here!\n\nThis update will function like a smaller \"pre-update\" before Update 2.2. Lots of fun stuff planned :)\n\n- iPhone X support!\n- New icons and effects!\n- New community shop!\n- Weekly Demon challenge!\n- Folders and level sorting!\n- New demon chests!\n- Level leaderboards!\n- Random other fun stuff.\n- Lots of bugfixes and tweaks.\n\n- There was an item duplication bug in version 2.1 that gave users extra rewards. This has been fixed in 2.11 and those rewards have been removed. So if you lose shards/diamonds etc after loading 2.11 its because they were bugged. Sorry :/\n\n/RubRub",
-                    "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/2.11.ipa",
+                    "downloadURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/2.11.ipa",
                     "size": 81682740,
                     "minOSVersion": "8.0"
                 }
             ],
             "localizedDescription": "Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.\n\nSimple one touch game play with lots of levels that will keep you entertained for hours!",
-            "iconURL": "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/icon.png",
+            "iconURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/icon.png",
             "tintColor": "055972",
             "screenshotURLs": [
-                "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/screen0.jpg",
-                "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/screen1.jpg",
-                "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/screen2.jpg",
-                "https://c00lkidd.com/repos/apps/com.robtop.geometryjump/screen3.jpg"
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen0.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen1.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen2.jpg",
+                "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen3.jpg"
             ]
         }
     ],
@@ -41,7 +41,7 @@
             "identifier": "c00lkidd-added-geometry-dash",
             "caption": "added Geometry Dash to the repo, check it out!",
             "date": "2022-03-01",
-            "appID": "com.robtop.geometryjump",
+            "appID": "com.robtop.geometrydash",
             "imageURL": "https://c00lkidd.com/repos/apps/com.robtop.geometrydash/screen0.jpg"
         },
         {
